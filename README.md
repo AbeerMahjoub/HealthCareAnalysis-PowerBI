@@ -8,14 +8,15 @@ This Power BI project explores key aspects of health care service delivery with 
 
 This dashboard equips healthcare administrators with actionable insights to enhance patient outcomes and streamline operations.
 
-![Dashboard Overview](Visualizations/Screenshot 1.png)
+![Dashboard](Visualizations/Screenshot%201.png)
+
+![Dashboard Overview2](Visualizations/Screenshot%202.png)
+
+![Dashboard Overview3](Visualizations/Screenshot%203.png)
+
+![Dashboard Overview4](Visualizations/Screenshot%204.png)
 
 
-![Dashboard Overview](Visualizations/Screenshot 2.png)
-
-![Dashboard Overview](Visualizations/Screenshot 3.png)
-
-![Dashboard Overview](Visualizations/Screenshot 4.png)
 
 
 
